@@ -1,6 +1,6 @@
 ### Olá! Eu meu nome é Leonardo Selegar👋
 
- - 💻 Atualmente estudando Desenvolvimento Web na Trybe
+ - 💻 Atualmente sou estudante de Desenvolvimento Web na Trybe
  - 😄 Pronouns: ele/dele
  
 <div align="center">
