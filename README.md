@@ -1,7 +1,7 @@
 ### Olá! Eu meu nome é Leonardo Selegar👋
 
  - 💻 Atualmente sou estudante de Desenvolvimento Web na Trybe
- - 😄 Pronouns: ele/dele
+
  
 <div align="center">
   <a href="https://github.com/leonardo111321">
