@@ -27,6 +27,7 @@ Atualmente sou estudante de Desenvolvimento Web na Trybe. Sou apaixonado por: le
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Leonardo-Selegar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/leonardo-selegar/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="mailto:leonardo11132@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ### Badges
 
