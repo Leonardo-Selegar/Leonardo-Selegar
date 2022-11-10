@@ -1,8 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Leonardo Selegar
+Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Leonardo Selegar
 ========================================================================================================================================
 
-Front-End developer
--------------------
+Desenvolvedor Front-End
+-----------------------
 
 Atualmente sou estudante de Desenvolvimento Web na Trybe. Sou apaixonado por: ler, jogar e codar. Esse meu gosto por programação vem desde o ensino médio quando cursei técnico em eletrônica e lá tive meus primeiro contatos com C++. Quando formado pretendo entrar no mercado de trabalho em uma vaga de Front-end e continuar sempre a me especializar mais e mais.
 
