@@ -7,7 +7,7 @@ Desenvolvedor Front-End
 Atualmente sou estudante de Desenvolvimento Web na Trybe. Sou apaixonado por: ler, jogar e codar. Esse meu gosto por programação vem desde o ensino médio quando cursei técnico em eletrônica e lá tive meus primeiro contatos com C++. Quando formado pretendo entrar no mercado de trabalho em uma vaga de Front-end e continuar sempre a me especializar mais e mais.
 
 * 🌍  Moro em São Leopoldo, RS
-* 🖥️  Veja meu portfólio [Meu Portfolio](http://leonardo-selegar.github.io/Portfolio.github.io/)
+* 🖥️  Veja meu portfólio [Meu Portfolio](https://leonardo-selegar.github.io/port/)
 * ✉️  Você pode me contatar por esse email [leonardo11132@gmail.com](mailto:leonardo11132@gmail.com)
 * 🧠  Atualmente estudando Back-end e Go
 
