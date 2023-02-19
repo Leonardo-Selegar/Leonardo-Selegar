@@ -38,6 +38,6 @@ Atualmente sou estudante de Desenvolvimento Web na Trybe. Sou apaixonado por: le
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Leonardo-Selegar"><img src="https://github-readme-stats.vercel.app/api?username=Leonardo-Selegar&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Leonardo-Selegar's GitHub stats" /></a>
+<a href="http://www.github.com/Leonardo-Selegar"><img src="https://github-readme-stats.vercel.app/api?username=Leonardo-Selegar&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Leonardo-Selegar's GitHub stats" /></a>
 
-<a href="https://github.com/Leonardo-Selegar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Selegar&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Leonardo-Selegar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Selegar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
