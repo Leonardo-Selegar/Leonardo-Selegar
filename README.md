@@ -9,7 +9,7 @@ Atualmente sou estudante de Desenvolvimento Web na Trybe. Sou apaixonado por: le
 * 🌍  Moro em São Leopoldo, RS
 * 🖥️  Veja meu portfólio [Meu Portfolio](https://leonardo-selegar.github.io/port/)
 * ✉️  Você pode me contatar por esse email [leonardo11132@gmail.com](mailto:leonardo11132@gmail.com)
-* 🧠  Atualmente estudando Back-end e Go
+* 🧠  Atualmente estudando Back-end e Vue.js
 
 ### Skills
 
