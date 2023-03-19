@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End developer
 -------------------
 
-Atualmente sou estudante de Desenvolvimento Web na Trybe. Sou apaixonado por: ler, jogar e codar. Esse meu gosto por programação vem desde o ensino médio quando cursei técnico em eletrônica e lá tive meus primeiro contatos com C++. Quando formado pretendo entrar no mercado de trabalho em uma vaga de Front-end e continuar sempre a me especializar mais e dar início a minha formação em Análise e Desenvolvimento de Sistemas.
+Atualmente sou estudante de Desenvolvimento Web na Trybe. Sou apaixonado por: ler, jogar e codar. Esse meu gosto por programação vem desde o ensino médio quando cursei técnico em eletrônica e lá tive meus primeiro contatos com C++. Quando formado pretendo entrar no mercado de trabalho em uma vaga de Front-end e continuar sempre a me especializar mais e dar início a minha formação Ciências da computação.
 
 * 🌍  I'm based in São Leopoldo, RS
 * 🖥️  See my portfolio at [Meu Portfolio](http://leonardo-selegar.github.io/Portfolio.github.io/)
